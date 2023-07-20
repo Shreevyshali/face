@@ -1,0 +1,102 @@
+.container{
+    width: 250px;
+    height: 250px;
+    background-color:yellow;
+    border-radius: 120px;
+}
+.eye{
+    width: 160px;
+    height: 45px;
+    background-color:yellow;
+    transform: translateY(4pc);
+    display: flex;
+    justify-content:space-around;
+}
+.eyer{
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    transform: translateY(8px);
+    border-radius: 29px;
+}
+.eyel{
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    transform: translateY(8px);
+    border-radius: 29px;
+}
+.er{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    transform: translateX(-1.5px);
+    border-radius: 20px;
+}
+.el{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    transform: translateX(-1.5px);
+    border-radius: 20px;
+}
+.e1{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    transform: translateY(6px);
+    border-radius: 20px;
+}
+.e2{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    transform: translateY(6px);
+    border-radius: 20px;
+}
+.ch{
+    /* background-color:yellow; */
+    width: 190px;
+    height: 40px;
+    transform: translateY(85px);
+    display: flex;
+    justify-content: space-between;
+}
+.chr{
+    height: 40px;
+    width: 40px;
+    background-color:pink;
+    border-radius: 30px;
+    filter: blur(8px);
+}
+.chl{
+    height: 40px;
+    width: 40px;
+    background-color: pink;
+    border-radius: 30px;
+    filter: blur(8px);
+}
+.nose{
+    height: 35px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    transform: translateY(40px);
+}
+.mouth{
+    height: 50px;
+    width: 100px;
+    background-color: brown;
+    transform: translateY(60px);
+    border-radius: 5px 5px 40px 40px;
+    overflow: hidden;
+    
+}
+.tong{
+    height: 60px;
+    width: 70px;
+    background-color: pink;
+    border-radius: 75%;
+    transform: translateY(30px);
+
+}
